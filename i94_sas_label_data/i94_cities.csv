@@ -1,0 +1,603 @@
+﻿city_cd,city_name,state_cd
+ALC,Alcan, AK 
+ANC,Anchorage, AK 
+BAR,Baker Island, AK
+DAC,Daltons Cache, AK 
+PIZ,Dew Station Pt Lay Dew, AK
+DTH,Dutch Harbor, AK 
+EGL,Eagle, AK 
+FRB,Fairbanks, AK 
+HOM,Homer, AK 
+HYD,Hyder, AK 
+JUN,Juneau, AK 
+5KE,Ketchikan, AK
+KET,Ketchikan, AK 
+MOS,Moses Point Intermediate, AK
+NIK,Nikiski, AK 
+NOM,Nom, AK 
+PKC,Poker Creek, AK 
+ORI,Port Lions Spb, AK
+SKA,Skagway, AK 
+SNP,St. Paul Island, AK
+TKI,Tokeen, AK
+WRA,Wrangell, AK 
+HSV,Huntsville, AL
+MOB,Mobile, AL 
+LIA,Little Rock, AR
+ROG,Rogers Arpt, AR
+DOU,Douglas, AZ 
+LUK,Lukeville, AZ 
+MAP,Mariposa,AZ
+NAC,Naco, AZ 
+NOG,Nogales, AZ 
+PHO,Phoenix, AZ 
+POR,Portal, AZ
+SLU,San Luis, AZ 
+SAS,Sasabe, AZ 
+TUC,Tucson, AZ 
+YUI,Yuma, AZ 
+AND,Andrade, CA 
+BUR,Burbank, CA
+CAL,Calexico, CA 
+CAO,Campo, CA 
+FRE,Fresno, CA 
+ICP,Imperial County, CA 
+LNB,Long Beach, CA 
+LOS,Los Angeles, CA 
+BFL,Bakersfield, CA
+OAK,Oakland, CA 
+ONT,Ontario, CA
+OTM,Otay Mesa, CA 
+BLT,Pacific, CA 
+PSP,Palm Springs, CA
+SAC,Sacramento, CA 
+SLS,Salinas, CA
+SDP,San Diego, CA
+SFR,San Francisco, CA 
+SNJ,San Jose, CA 
+SLO,San Luis Obispo, CA 
+SLI,San Luis Obispo, CA
+SPC,San Pedro, CA 
+SYS,San Ysidro, CA 
+SAA,Santa Ana, CA 
+STO,Stockton, CA
+TEC,Tecate, CA 
+TRV,Travis, CA 
+APA,Arapahoe County, CO
+ASE,Aspen, CO
+COS,Colorado Springs, CO
+DEN,Denver, CO 
+DRO,Durango, CO
+BDL,Bradley International, CT
+BGC,Bridgeport, CT 
+GRT,Groton, CT 
+HAR,Hartford, CT 
+NWH,New Haven, CT 
+NWL,New London, CT 
+TST,Newington Data Center Test, CT
+WAS,Washington,DC
+DOV,Dover Afb, DE
+DVD,Dover, DE 
+WLL,Wilmington, DE 
+BOC,Bocagrande, FL 
+SRQ,Sarasota, FL
+CAN,Cape Canaveral, FL 
+DAB,Daytona Beach International, FL
+FRN,Fernandina, FL 
+FTL,Fort Lauderdale, FL 
+FMY,Fort Myers, FL 
+FPF,Fort Pierce, FL 
+HUR,Hurlburt Field, FL
+GNV,Gainesville, FL
+JAC,Jacksonville, FL 
+KEY,Key West, FL 
+LEE,Leesburg Municipal Airport, FL
+MLB,Melbourne, FL
+MIA,Miami, FL 
+APF,Naples, FL
+OPF,Opa Locka, FL
+ORL,Orlando, FL 
+PAN,Panama City, FL 
+PEN,Pensacola, FL 
+PCF,Port Canaveral, FL 
+PEV,Port Everglades, FL 
+PSJ,Port St Joe, FL 
+SFB,Sanford, FL 
+SGJ,St Augustine Arpt, FL
+SAU,St Augustine, FL 
+FPR,St Lucie County, FL
+SPE,St Petersburg, FL 
+TAM,Tampa, FL 
+WPB,West Palm Beach, FL 
+ATL,Atlanta, GA 
+BRU,Brunswick, GA 
+AGS,Augusta, GA
+SAV,Savannah, GA 
+AGA,Agana, GU 
+HHW,Honolulu, HI 
+OGG,Maui, HI
+KOA,Kona, HI 
+LIH,Lihue, HI 
+CID,Cedar Rapids/Iowa City, IA
+DSM,Des Moines, IA
+BOI,Air Term. (Gowen Fld) Boise, ID
+EPI,Eastport, ID 
+IDA,Idaho Falls, ID
+PTL,Porthill, ID 
+SPI,Springfield, IL
+CHI,Chicago, IL 
+DPA,Dupage County, IL
+PIA,Greater Peoria, IL
+RFD,Greater Rockford, IL
+UGN,Waukegan, IL
+GAR,Gary, IN 
+HMM,Hammond, IN 
+INP,Indianapolis, IN 
+MRL,Merrillville, IN 
+SBN,South Bend, IN
+ICT,Witchita, KS
+LEX,Lexington, KY
+LOU,Louisville/Jefferson County metro government, KY 
+BTN,Baton Rouge, LA 
+LKC,Lake Charles, LA 
+LAK,Lake Charles, LA
+MLU,Monroe, LA
+MGC,Morgan City, LA 
+NOL,New Orleans, LA 
+BOS,Boston, MA 
+GLO,Gloucester, MA 
+BED,Bedford, MA
+LYN,Lynden, WA 
+ADW,Andrews Afb, MD
+BAL,Baltimore, MD 
+MKG,Muskegon, MD
+PAX,Patuxent River, MD 
+BGM,Bangor, ME 
+BOO,Boothbay Harbor, ME 
+BWM,Bridgewater, ME 
+BCK,Buckport, ME 
+CLS,Calais, ME 
+CRB,Caribou, ME 
+COB,Coburn Gore, ME 
+EST,Eastcourt, ME 
+EPT,Eastport Municipal, ME
+EPM,Eastport, ME 
+FOR,Forest City, ME 
+FTF,Fort Fairfield, ME 
+FTK,Fort Kent, ME 
+HML,Hamiin, ME 
+HTM,Houlton, ME 
+JKM,Jackman, ME 
+KAL,Kalispel, MT 
+LIM,Limestone, ME 
+LUB,Lubec, ME 
+MAD,Madawaska, ME 
+POM,Portland, ME 
+RGM,Rangeley, ME
+SBR,South Brewer, ME 
+SRL,St Aurelie, ME 
+SPA,St Pampile, ME 
+VNB,Van Buren, ME 
+VCB,Vanceboro, ME 
+AGN,Algonac, MI 
+ALP,Alpena, MI 
+BCY,Bay City, MI 
+DET,Detroit, MI 
+GRP,Grand Rapids, MI
+GRO,Grosse Isle, MI 
+ISL,Isle Royale, MI 
+MRC,Marine City, MI 
+MRY,Marysville, MI 
+PTK,Pontiac, MI
+PHU,Port Huron, MI 
+RBT,Roberts Landing, MI 
+SAG,Saginaw, MI 
+SSM,Sault Ste. Marie, MI 
+SCL,St Clair, MI 
+YIP,Ypsilanti, MI
+BAU,Baudette, MN 
+CAR,Caribou Municipal Airport, MN
+GTF,Collapsed Into Int, MN
+INL,Collapsed Into Int, MN
+CRA,Crane Lake, MN 
+MIC,Crystal Municipal Airport, MN
+DUL,Duluth, MN 
+ELY,Ely, MN 
+GPM,Grand Portage, MN 
+SVC,Silver City, MN
+INT,Intl Falls, MN 
+LAN,Lancaster, MN 
+MSP,Minn./St Paul, MN 
+LIN,Northern Svc Center, MN 
+NOY,Noyes, MN 
+PIN,Pine Creek, MN 
+48Y,Pinecreek Border Arpt, MN
+RAN,Rainer, MN 
+RST,Rochester, MN
+ROS,Roseau, MN 
+SPM,St Paul, MN 
+WSB,Warroad Intl Spb, MN
+WAR,Warroad, MN 
+KAN,Kansas City, MO 
+SGF,Springfield, MO
+STL,St Louis, MO 
+WHI,Whitetail, MT 
+WHM,Wild Horse, MT 
+GPT,Biloxi Regional, MS
+GTR,Golden Triangle Lowndes Cnty, MS
+GUL,Gulfport, MS 
+PAS,Pascagoula, MS 
+JAN,Jackson, MS
+BIL,Billings, MT 
+BTM,Butte, MT 
+CHF,Chief Mt, MT 
+CTB,Cut Bank Municipal, MT
+CUT,Cut Bank, MT 
+DLB,Del Bonita, MT 
+EUR,Eureka, MT
+BZN,Bozeman, MT
+FCA,Glacier National Park, MT
+GGW,Glasgow, MT 
+GRE,Great Falls, MT 
+HVR,Havre, MT 
+HEL,Helena, MT 
+LWT,Lewiston, MT 
+MGM,Morgan, MT 
+OPH,Opheim, MT 
+PIE,Piegan, MT 
+RAY,Raymond, MT 
+ROO,Roosville, MT 
+SCO,Scobey, MT 
+SWE,Sweetgtass, MT 
+TRL,Trial Creek, MT 
+TUR,Turner, MT 
+WCM,Willow Creek, MT 
+CLT,Charlotte, NC 
+FAY,Fayetteville, NC
+MRH,Morehead City, NC 
+FOP,Morris Fields Aaf, NC
+GSO,Piedmont Triad Intl Airport, NC
+RDU,Raleigh/Durham, NC 
+SSC,Sumter, NC
+WIL,Wilmington, NC 
+AMB,Ambrose, ND 
+ANT,Antler, ND 
+CRY,Carbury, ND 
+DNS,Dunseith, ND 
+FAR,Fargo, ND 
+FRT,Fortuna, ND 
+GRF,Grand Forks, ND 
+HNN,Hannah, ND 
+HNS,Hansboro, ND 
+MAI,Maida, ND 
+MND,Minot, ND 
+NEC,Neche, ND 
+NOO,Noonan, ND 
+NRG,Northgate, ND 
+PEM,Pembina, ND 
+SAR,Sarles, ND 
+SHR,Sherwood, ND 
+SJO,St John, ND 
+WAL,Walhalla, ND 
+WHO,Westhope, ND 
+WND,Williston, ND 
+OMA,Omaha, NE 
+LEB,Lebanon, NH 
+MHT,Manchester, NH
+PNH,Pittsburg, NH 
+PSM,Portsmouth, NH 
+BYO,Bayonne, NJ 
+CNJ,Camden, NJ 
+HOB,Hoboken, NJ 
+JER,Jersey City, NJ 
+WRI,Wrightsown, NJ
+MMU,Morristown, NJ
+NEW,Newark/Teterboro, NJ 
+PER,Perth Amboy, NJ 
+ACY,Atlantic City, NJ
+ALA,Alamagordo, NM
+ABQ,Albuquerque, NM 
+ANP,Antelope Wells, NM 
+CRL,Carlsbad, NM 
+COL,Columbus, NM 
+CDD,St. Louis Cnty, NM
+DNM,Deming, NM
+LAS,Las Cruces, NM 
+LOB,Lordsburg, NM
+RUI,Ruidoso, NM
+STR,Santa Teresa, NM 
+RNO,Reno, NV
+FLX,Fallon Municipal Airport, NV
+LVG,Las Vegas, NV 
+REN,Reno, NV 
+ALB,Albany, NY 
+AXB,Alexandria Bay, NY 
+BUF,Buffalo, NY 
+CNH,Cannon Corners, NY
+CAP,Cape Vincent, NY 
+CHM,Champlain, NY 
+CHT,Chateaugay, NY 
+CLA,Clayton, NY 
+FTC,Fort Covington, NY 
+LAG,La Guardia, NY 
+LEW,Lewiston, NY 
+MAS,Massena, NY 
+MAG,Mcguire Afb, NY 
+MOO,Moores, NY 
+MRR,Morristown, NY 
+NYC,New York, NY 
+NIA,Niagara Falls, NY 
+OGD,Ogdensburg, NY 
+OSW,Oswego, NY 
+ELM,Horsehead, NY
+ROC,Rochester, NY 
+ROU,Rouses Point, NY 
+SWF,Orange County, NY
+SYR,Syracuse, NY 
+THO,Thousand Island Bridge, NY
+TRO,Trout River, NY 
+WAT,Watertown, NY 
+HPN,White Plains, NY
+WRB,Whirlpool Bridge, NY
+YOU,Youngstown, NY 
+AKR,Akron, OH 
+ATB,Ashtabula, OH 
+CIN,Cincinnati, OH 
+CLE,Cleveland, OH 
+CLM,Columbus, OH 
+LOR,Lorain, OH 
+MBO,Marble Heads, OH 
+SDY,Sandusky, OH 
+TOL,Toledo, OH 
+OKC,Oklahoma City, OK 
+TUL,Tulsa, OK
+AST,Astoria, OR 
+COO,Coos Bay, OR 
+HIO,Hillsboro, OR
+MED,Medford, OR 
+NPT,Newport, OR 
+POO,Portland, OR 
+PUT,Put-In-Bay, OH 
+RDM,Redmond, OR
+ERI,Erie, PA 
+MDT,Harrisburg, PA
+HSB,Harrisonburg, PA 
+PHI,Philadelphia, PA 
+PIT,Pittsburg, PA 
+AGU,Aguadilla, PR 
+BQN,Aguadillo, PR
+JCP,Benjamin Rivera, PR
+ENS,Ensenada, PR 
+FAJ,Fajardo, PR 
+HUM,Humacao, PR 
+JOB,Jobos, PR 
+MAY,Mayaguez, PR 
+PON,Ponce, PR 
+PSE,Ponce-Mercedita, PR
+SAJ,San Juan, PR 
+VQS,Vieques-Arpt, PR
+PRO,Providence, RI 
+PVD,Warwick, RI
+CHL,Charleston, SC 
+CAE,Columbia, SC
+GEO,Georgetown, SC 
+GSP,Greenville, SC
+GRR,Greer, SC
+MYR,Myrtle Beach, SC
+SPF,Black Hills  Spearfish, SD
+HON,Huron, SD
+SAI,Saipan, SPN 
+TYS,Alcoa, TN
+MEM,Memphis, TN 
+NSV,Nashville, TN 
+TRI,Tri City Arpt, TN
+ADS,Addison, TX
+ADT,Amistad Dam, TX 
+ANZ,Anzalduas, TX
+AUS,Austin, TX 
+BEA,Beaumont, TX 
+BBP,Big Bend Park, TX
+SCC,Bp Spec Coord. Ctr, TX
+BTC,Bp Tactical Unit, TX 
+BOA,Bridge Of Americas, TX
+BRO,Brownsville, TX 
+CRP,Corpus Christi, TX 
+DAL,Dallas, TX 
+DLR,Del Rio, TX 
+DNA,Donna, TX
+EGP,Eagle Pass, TX 
+ELP,El Paso, TX 
+FAB,Fabens, TX 
+FAL,Falcon Heights, TX 
+FTH,Fort Hancock, TX 
+AFW,Fort Worth Alliance, TX
+FPT,Freeport, TX 
+GAL,Galveston, TX 
+HLG,Harlingen, TX 
+HID,Hidalgo, TX 
+HOU,Houston, TX 
+SGR,Hull Field Sugar Land Arpt, TX
+LLB,Lincoln Bridge, TX
+LCB,Laredo Columbia Bridge, TX
+LRN,Laredo North, TX 
+LAR,Laredo, TX 
+LSE,Los Ebanos, TX 
+IND,Los Indios, TX
+LOI,Los Indios, TX 
+MRS,Marfa, TX
+MCA,Mcallen, TX 
+MAF,Odessa Regional, TX
+PDN,Paso Del Norte,TX 
+PBB,Peace Bridge, NY 
+PHR,Pharr, TX 
+PAR,Port Arthur, TX 
+ISB,Port Isabel, TX 
+POE,Port Of El Paso, TX 
+PRE,Presidio, TX 
+PGR,Progreso, TX 
+RIO,Rio Grande City, TX 
+ROM,Roma, TX 
+SNA,San Antonio, TX 
+SNN,Sanderson, TX 
+VIB,Veteran Intl Bridge, TX
+YSL,Ysleta, TX 
+CHA,Charlotte Amalie, VI 
+CHR,Christiansted, VI 
+CRU,Cruz Bay St John, VI 
+FRK,Frederiksted, VI 
+STT,St Thomas, VI 
+LGU,Logan, UT
+SLC,Salt Lake City, UT 
+CHO,Albemarle Charlottesville, VA
+DAA,Fairfax County, VA
+HOP,Hopewell, VA 
+HEF,Manassas, VA
+NWN,Newport, VA 
+NOR,Norfolk, VA 
+RCM,Richmond, VA 
+ABS,Alburg Springs, VT 
+ABG,Alburg, VT 
+BEB,Beebe Plain, VT 
+BEE,Beecher Falls, VT 
+BRG,Burlington, VT 
+CNA,Canaan, VT 
+DER,Derby Line, VT
+DLV,Derby Line, VT
+ERC,East Richford, VT 
+HIG,Highgate Springs, VT 
+MOR,Morses Line, VT 
+NPV,Newport, VT 
+NRT,North Troy, VT 
+NRN,Norton, VT 
+PIV,Pinnacle Road, VT 
+RIF,Richfort, VT 
+STA,St Albans, VT 
+SWB,Swanton, VT
+WBE,West Berkshire, VT 
+ABE,Aberdeen, WA 
+ANA,Anacortes, WA 
+BEL,Bellingham, WA 
+BLI,Bellingham, WA
+BLA,Blaine, WA 
+BWA,Boundary, WA 
+CUR,Curlew, WA
+DVL,Danville, WA 
+EVE,Everett, WA 
+FER,Ferry, WA 
+FRI,Friday Harbor, WA 
+FWA,Frontier, WA 
+KLM,Kalama, WA 
+LAU,Laurier, WA 
+LON,Longview, WA 
+MET,Metaline Falls, WA 
+MWH,Moses Lake Grant County Arpt, WA
+NEA,Neah Bay, WA 
+NIG,Nighthawk, WA 
+OLY,Olympia, WA 
+ORO,Oroville, WA 
+PWB,Pasco, WA 
+PIR,Point Roberts, WA 
+PNG,Port Angeles, WA 
+PTO,Port Townsend, WA 
+SEA,Seattle, WA 
+SPO,Spokane, WA 
+SUM,Sumas, WA 
+TAC,Tacoma, WA 
+PSC,Pasco, WA
+VAN,Vancouver, WA 
+AGM,Algoma, WI 
+BAY,Bayfield, WI 
+GRB,Green Bay, WI 
+MNW,Manitowoc, WI 
+MIL,Milwaukee, WI 
+MSN,Dane County, WI
+CHS,Charleston, WV 
+CLK,Clarksburg, WV 
+BLF,Mercer County, WV
+CSP,Casper, WY 
+XXX,Not Reported/Unknown ,
+888,Unidentifed Air / Seaport,
+UNK,Unknown Poe ,
+CHN,No Port Code (Chn),
+CNC,Cannon Corners, NY
+AG0,Magnolia, AR
+BHM,Bar Harbor, ME
+BHX,Birmingham, AL
+CAK,Akron, OH
+FOK,Suffolk County, NY
+LND,Lander, WY
+MAR,Marfa, TX
+MLI,Moline, IL
+RIV,Riverside, CA
+RME,Rome, NY
+VNY,Van Nuys, CA
+YUM,Yuma, AZ
+FRG,Collapsed (FOK) 06/15,
+HRL,Collapsed (HLG) 06/15,
+ISP,Collapsed (FOK) 06/15,
+JSJ,Collapsed (SAJ) 06/15,
+BUS,Collapsed (BUF) 06/15,
+IAG,Collapsed (NIA) 06/15,
+PHN,Collapsed (PHU) 06/15,
+STN,Collapsed (STR) 06/15,
+VMB,Collapsed (VNB) 06/15,
+T01,Collapsed (SEA) 06/15,
+PHF,No PORT Code (PHF),
+DRV,No PORT Code (DRV),
+FTB,No PORT Code (FTB),
+GAC,No PORT Code (GAC),
+GMT,No PORT Code (GMT),
+JFA,No PORT Code (JFA),
+JMZ,No PORT Code (JMZ),
+NC8,No PORT Code (NC8),
+NYL,No PORT Code (NYL),
+OAI,No PORT Code (OAI),
+PCW,No PORT Code (PCW),
+WA5,No PORT Code (WAS),
+WTR,No PORT Code (WTR),
+X96,No PORT Code (X96),
+XNA,No PORT Code (XNA),
+YGF,No PORT Code (YGF),
+5T6,No PORT Code (5T6),
+60,No PORT Code (60),
+SP0,No PORT Code (SP0),
+W55,No PORT Code (W55),
+X44,No PORT Code (X44),
+AUH,No PORT Code (AUH),
+RYY,No PORT Code (RYY),
+SUS,No PORT Code (SUS),
+74S,No PORT Code (74S),
+ATW,No PORT Code (ATW),
+CPX,No PORT Code (CPX),
+MTH,No PORT Code (MTH),
+PFN,No PORT Code (PFN),
+SCH,No PORT Code (SCH),
+ASI,No PORT Code (ASI),
+BKF,No PORT Code (BKF),
+DAY,No PORT Code (DAY),
+Y62,No PORT Code (Y62),
+AG,No PORT Code (AG),
+BCM,No PORT Code (BCM),
+DEC,No PORT Code (DEC),
+PLB,No PORT Code (PLB),
+CXO,No PORT Code (CXO),
+JBQ,No PORT Code (JBQ),
+JIG,No PORT Code (JIG),
+OGS,No PORT Code (OGS),
+TIW,No PORT Code (TIW),
+OTS,No PORT Code (OTS),
+AMT,No PORT Code (AMT),
+EGE,No PORT Code (EGE),
+GPI,No PORT Code (GPI),
+NGL,No PORT Code (NGL),
+OLM,No PORT Code (OLM),
+.GA,No PORT Code (.GA),
+CLX,No PORT Code (CLX),
+CP ,No PORT Code (CP),
+FSC,No PORT Code (FSC),
+NK,No PORT Code (NK),
+ADU,No PORT Code (ADU),
+AKT,No PORT Code (AKT),
+LIT,No PORT Code (LIT),
+A2A,No PORT Code (A2A),
+OSN,No PORT Code (OSN),
