@@ -2,7 +2,7 @@
 ### Data Engineering Capstone Project
 
 #### Project Summary
-This project’s objective was to establish an ETL pipeline for I94 immigration, earth surface temperatures, airport codes, and city demographic datasets to create an analytics data warehouse for US immigration trends.
+This project’s objective was to establish an ETL pipeline for I94 immigration, earth surface temperatures, and city demographic datasets to create an analytics data warehouse for US immigration trends.
 
 The tools utilized for this project include **Apache Spark and AWS S3**. Spark will be used to read and process the data and S3 will store the fact and dimension tables created with a Snowflake architecture. 
 
